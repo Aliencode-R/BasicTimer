@@ -13,6 +13,7 @@ import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
 
+	// this is a timer app
     EditText etMin ;
     TextView tvColon;
     EditText etSec;
